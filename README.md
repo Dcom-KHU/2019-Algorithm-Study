@@ -9,8 +9,8 @@ Repository for D.com 2019 Fall Algorithm Study<br>
 ## Curriculum
 ### Basic Course
 1. Input & Output
-2. Data Structure 1 (Stack, Queue, Deque)
-3. Mathematical Principle 1 (Prime Number, LCM, GCD etc..)
+2. Mathematical Principle 1 (Prime Number, LCM, GCD etc..)
+3. Data Structure 1 (Stack, Queue, Deque)
 4. Basic Dynamic Programming
 5. Data Structure 2 (Graph, Tree)
 6. Brute-Force, Bitmask
