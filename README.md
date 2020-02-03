@@ -1,5 +1,5 @@
-# 2019-Algorithm-Study
-Repository for D.com 2019 Fall Algorithm Study<br>
+# D.COM-Algorithm-Study
+Repository for D.com Algorithm Study<br>
 
 ## Goal
 문제 해결 능력 향상과 코딩 테스트(Samsung SW 역량테스트, KAKAO Coding Test등)의 대비를 목적으로 합니다. 
